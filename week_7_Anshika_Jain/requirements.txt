@@ -1,0 +1,10 @@
+cohere
+pinecone-client
+streamlit
+langchain
+langchain-cohere
+langchain-pinecone
+datasets
+python-dotenv
+pypdf
+tiktoken
